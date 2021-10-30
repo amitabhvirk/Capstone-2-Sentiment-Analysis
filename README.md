@@ -1,2 +1,3 @@
-# Capstone-2-Sentiment-Analysis
-Capstone 2 sentiment analysis on twitter data
+# Analytics-project-2
+
+Link to google drive: https://drive.google.com/drive/folders/1grBLUO8XH8WxIXHKibimI1bBu4QWACVp?usp=sharing
